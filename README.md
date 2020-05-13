@@ -2,4 +2,4 @@
 Awesome photographer portfolio
 
 ## Used Languages & Libraries
-Html Css jQuery
+Html, Css, jQuery
