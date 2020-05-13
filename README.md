@@ -1,5 +1,5 @@
 # Photographer-Portfolio
 Awesome photographer portfolio
 
-##Used Languages & Libraries
+## Used Languages & Libraries
 Html Css jQuery
